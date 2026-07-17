@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Gayatri Fegade
@@ -18,11 +19,79 @@
 # 🚀 About Me
 
 - 🔭 Currently building modern web applications using **React.js, Next.js, TypeScript, Python, and REST APIs**
+- 💼 Currently interning as a **Frontend & HMI Developer Intern** at **Tejtatv Innotech Pvt. Ltd.**
 - 🤝 Open to collaborating on **Full Stack Development, AI Applications, and Open Source Projects**
 - 💡 Exploring **Backend Development, System Design, and Software Architecture**
 - 🌱 Currently learning **Advanced React, Next.js, TypeScript, Django, Flask, SQL, Data Structures & Algorithms**
 - 💬 Ask me about **React.js, Next.js, JavaScript, Python, REST APIs, Git, GitHub, Power BI, and Responsive UI Design**
 - ⚡ **Fun Fact:** I enjoy transforming ideas into clean, responsive, and scalable software solutions.
+
+---
+
+# 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**Frontend & HMI Developer Intern**
+🏢 Tejtatv Innotech Pvt. Ltd.
+📅 February 2026 – Present
+
+- Working on **Human-Machine Interface (HMI)** screens and dashboards for industrial/embedded applications
+- Building responsive **frontend interfaces** using React.js / modern web technologies
+- Collaborating with the team on UI/UX improvements and real-time data visualization
+- Gaining hands-on experience in translating design mockups into functional, interactive interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Projects
+
+### 🔹 SKILLCHEKR – Employability Portfolio Project 🌐 *(Live Project)*
+🛠 **Tech:** React.js, JavaScript (ES6+), HTML5, Tailwind CSS, REST APIs, Git
+
+Led a team in building a React.js-based employability assessment platform with reusable, responsive UI components and REST API integration for dynamic user & career data.
+
+
+
+---
+
+### 🔹 TOTC – Learning Management Website 🌐 *(Live Project)*
+🛠 **Tech:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, REST APIs, Git
+
+Led frontend development of an LMS platform, building responsive React components for course modules and dashboards with seamless REST API integration.
+
+
+
+---
+
+### 🔹 PlantAI – AI Powered Plant Disease Detection System
+🛠 **Tech:** Python, TensorFlow, Flask, CNN, ResNet-18
+
+Built a Deep Learning-based plant disease detection system using CNN and ResNet-18, trained on 70,000+ images across 38 disease categories, deployed via Flask for real-time prediction.
+
+
+---
+
+### 🔹 Medical Insurance Cost Prediction
+🛠 **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+
+Performed EDA and feature engineering on healthcare data, then built and compared ML models (Linear Regression, KNN, Decision Tree) to predict medical insurance costs.
+
+
+
+---
+
+### 🔹 Flight Reservation System
+🛠 **Tech:** Python, Django, HTML5, CSS3, JavaScript, SQLite
+
+Developed a web-based flight booking system with secure authentication and CRUD operations, using Django and SQLite with a responsive frontend.
+
+
 
 ---
 
