@@ -94,17 +94,7 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=gayatrifegde&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gayatrifegde&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrifegde&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
+# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=gayatrifegde&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=gayatrifegde&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gayatrifegde&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
