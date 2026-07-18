@@ -19,7 +19,7 @@
 # 🚀 About Me
 
 - 🔭 Currently building modern web applications using **React.js, Next.js, TypeScript, Python, and REST APIs**
-- 💼 Currently interning as a **Frontend & HMI Developer Intern** at **Tejtatv Innotech Pvt. Ltd.**
+- 💼 Open to **Software Developer, Frontend Developer, Python Developer, and Full Stack Developer** opportunities
 - 🤝 Open to collaborating on **Full Stack Development, AI Applications, and Open Source Projects**
 - 💡 Exploring **Backend Development, System Design, and Software Architecture**
 - 🌱 Currently learning **Advanced React, Next.js, TypeScript, Django, Flask, SQL, Data Structures & Algorithms**
@@ -28,28 +28,35 @@
 
 ---
 
-# 💼 Experience
+# 🧩 Projects
+---
 
-<table>
-<tr>
-<td>
+### 🔹 Employee & Asset Management System
+🛠 **Tech:** Python, MySQL, File Handling, OOP, CLI
 
-**Frontend & HMI Developer Intern**
-🏢 Tejtatv Innotech Pvt. Ltd.
-📅 February 2026 – Present
+Developed a menu-driven Employee & Asset Management System with secure login authentication, employee record management, asset allocation, CRUD operations, and company data management using Python and MySQL.
 
-- Working on **Human-Machine Interface (HMI)** screens and dashboards for industrial/embedded applications
-- Building responsive **frontend interfaces** using React.js / modern web technologies
-- Collaborating with the team on UI/UX improvements and real-time data visualization
-- Gaining hands-on experience in translating design mockups into functional, interactive interfaces
-
-</td>
-</tr>
-</table>
+🔗 Repository: https://github.com/gayatrifegde/Employee_Asset-Management-System--Python
 
 ---
 
-# 🧩 Projects
+### 🔹 Manager API – DevBoard Project
+🛠 **Tech:** Python, Flask, REST API, JSON
+
+Developed a RESTful Manager API using Flask to manage project tasks, team members, and workflow operations. Implemented CRUD APIs, JSON-based request/response handling, modular project structure, and API testing for efficient backend development.
+
+🔗 Repository: https://github.com/gayatrifegde/Manager-API--Devboard-Project-
+
+---
+
+### 🔹 Flight Reservation System
+🛠 **Tech:** Python, Django, HTML5, CSS3, JavaScript, SQLite
+
+Developed a web-based flight booking system with secure authentication and CRUD operations, using Django and SQLite with a responsive frontend.
+
+🔗 Repository:  https://github.com/gayatrifegde/FLIGHT-RESERVATION-USING-RULE-BASED-AND-DATA-DRIVEN-MODELS
+
+---
 
 ### 🔹 SKILLCHEKR – Employability Portfolio Project 🌐 *(Live Project)*
 🛠 **Tech:** React.js, JavaScript (ES6+), HTML5, Tailwind CSS, REST APIs, Git
@@ -81,16 +88,6 @@ Built a Deep Learning-based plant disease detection system using CNN and ResNet-
 🛠 **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
 
 Performed EDA and feature engineering on healthcare data, then built and compared ML models (Linear Regression, KNN, Decision Tree) to predict medical insurance costs.
-
-
-
----
-
-### 🔹 Flight Reservation System
-🛠 **Tech:** Python, Django, HTML5, CSS3, JavaScript, SQLite
-
-Developed a web-based flight booking system with secure authentication and CRUD operations, using Django and SQLite with a responsive frontend.
-
 
 
 ---
