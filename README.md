@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Gayatri Fegade
 
-### 💻 Software Developer | Frontend Developer | AI Enthusiast
+### 🤖 AI Engineer | Machine Learning | Python Developer | Software Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Developer;React+%7C+Next.js+Developer;Python+Developer;AI+Enthusiast" />
 
@@ -18,13 +18,12 @@
 
 # 🚀 About Me
 
-- 🔭 Currently building modern web applications using **React.js, Next.js, TypeScript, Python, and REST APIs**
-- 💼 Open to **Software Developer, Frontend Developer, Python Developer, and Full Stack Developer** opportunities
-- 🤝 Open to collaborating on **Full Stack Development, AI Applications, and Open Source Projects**
-- 💡 Exploring **Backend Development, System Design, and Software Architecture**
-- 🌱 Currently learning **Advanced React, Next.js, TypeScript, Django, Flask, SQL, Data Structures & Algorithms**
-- 💬 Ask me about **React.js, Next.js, JavaScript, Python, REST APIs, Git, GitHub, Power BI, and Responsive UI Design**
-- ⚡ **Fun Fact:** I enjoy transforming ideas into clean, responsive, and scalable software solutions.
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Software Development**.
+- 💻 Experienced in building **AI-powered applications, REST APIs, and scalable software solutions** using **Python, TensorFlow, Flask, Django, Angular, React.js, and Next.js**.
+- 🌱 Currently learning **Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Angular, and Advanced Machine Learning**.
+- 💼 Open to **AI Engineer, Machine Learning Engineer, Data Science, Python Developer, Angular Developer, and Software Engineer** opportunities.
+- 🤝 Interested in **Computer Vision, Generative AI, Intelligent Automation, Backend Development, and Open Source**.
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Angular, React.js, TensorFlow, Flask, REST APIs, Git, and Data Analytics**.
 
 ---
 
@@ -49,6 +48,31 @@ Developed a RESTful Manager API using Flask to manage project tasks, team member
 
 ---
 
+### 🔹 PlantAI – AI Powered Plant Disease Detection System
+🛠 **Tech:** Python, TensorFlow, Flask, CNN, ResNet-18
+
+Built a Deep Learning-based plant disease detection system using CNN and ResNet-18, trained on 70,000+ images across 38 disease categories, deployed via Flask for real-time prediction.
+
+
+---
+
+### 🔹 Medical Insurance Cost Prediction
+🛠 **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+
+Performed EDA and feature engineering on healthcare data, then built and compared ML models (Linear Regression, KNN, Decision Tree) to predict medical insurance costs.
+
+---
+
+### 🔹Gemini AI Workspace
+
+🛠 **Tech:** Python, Google Gemini API, Streamlit, NLP, Prompt Engineering
+
+Developed an AI-powered productivity workspace integrating multiple Generative AI tools into a single application. Implemented intelligent modules for document analysis, PDF summarization, SQL query generation, interview preparation, resume analysis, career guidance, and conversational AI using the Google Gemini API. Designed a modular and scalable architecture with prompt engineering for real-world AI workflows.
+
+🔗 Repository: https://github.com/gayatrifegde/Gemini-AI-Workspace-main
+
+--- 
+
 ### 🔹 Flight Reservation System
 🛠 **Tech:** Python, Django, HTML5, CSS3, JavaScript, SQLite
 
@@ -63,32 +87,12 @@ Developed a web-based flight booking system with secure authentication and CRUD 
 
 Led a team in building a React.js-based employability assessment platform with reusable, responsive UI components and REST API integration for dynamic user & career data.
 
-
-
 ---
 
 ### 🔹 TOTC – Learning Management Website 🌐 *(Live Project)*
 🛠 **Tech:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, REST APIs, Git
 
 Led frontend development of an LMS platform, building responsive React components for course modules and dashboards with seamless REST API integration.
-
-
-
----
-
-### 🔹 PlantAI – AI Powered Plant Disease Detection System
-🛠 **Tech:** Python, TensorFlow, Flask, CNN, ResNet-18
-
-Built a Deep Learning-based plant disease detection system using CNN and ResNet-18, trained on 70,000+ images across 38 disease categories, deployed via Flask for real-time prediction.
-
-
----
-
-### 🔹 Medical Insurance Cost Prediction
-🛠 **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
-
-Performed EDA and feature engineering on healthcare data, then built and compared ML models (Linear Regression, KNN, Decision Tree) to predict medical insurance costs.
-
 
 ---
 
@@ -110,44 +114,64 @@ Performed EDA and feature engineering on healthcare data, then built and compare
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-### Frontend
+---
 
+### 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 
-### Backend
+---
 
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+### ⚙️ Backend
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 ![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
 
-### AI / Data
+---
+
+### 🤖 AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-black?style=for-the-badge&logo=google)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
 
-### Tools
+---
+
+### 📊 Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)
+
+---
+
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-
 ---
 
 # 🐍 Contribution Snake
